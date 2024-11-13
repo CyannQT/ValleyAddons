@@ -1,4 +1,4 @@
-# ValeyAddons
+# ValleyAddons
 A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (especially F7/M7).
 
 This is ohful's private module, featured in many YouTuber's videos, like hayacyaa and sorawh
