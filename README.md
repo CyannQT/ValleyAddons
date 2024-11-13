@@ -5,16 +5,16 @@ This is ohful's private module, featured in many YouTuber's videos, like hayacya
 I dislike people keeping modules private which is why I have leaked it
 
 # Features:
--Location Notifiers
--Potion bag helper
--Ender pearl/jerry refiller
--Blood camp helper
--Stats checker
--Picture on screen
--Stopwatch
--Predev Timer
+-Location Notifiers<br>
+-Potion bag helper<br>
+-Ender pearl/jerry refiller<br>
+-Blood camp helper<br>
+-Stats checker<br>
+-Picture on screen<br>
+-Stopwatch<br>
+-Predev Timer<br>
 
- and more!
+ and more!<br>
 
 
 # How to use:
